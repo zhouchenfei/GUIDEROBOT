@@ -504,4 +504,3 @@ if __name__ == '__main__':
     app = Application(master=root)
     root.mainloop()
     print("end")
-    
